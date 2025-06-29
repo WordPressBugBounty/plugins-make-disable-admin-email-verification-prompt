@@ -1,7 +1,7 @@
 ﻿=== Make Disable Admin Email Verification Prompt| Aims Infosoft ===
 Contributors: aimsinfosofts, aimsankur
 Author: Aims Infosoft
-Tags: email, disable, adminemail, administrationemail, admin, prompt, verification, make   
+Tags: email, disable, adminemail, verification, admin  
 Requires at least: 5.3
 Tested up to: 6.6.2
 Requires PHP: 7.0
