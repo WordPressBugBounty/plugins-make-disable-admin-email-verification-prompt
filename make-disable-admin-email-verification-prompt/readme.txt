@@ -3,9 +3,9 @@ Contributors: aimsinfosofts, aimsankur
 Author: Aims Infosoft
 Tags: email, disable, adminemail, verification, admin  
 Requires at least: 5.3
-Tested up to: 6.6.2
+Tested up to: 6.9
 Requires PHP: 7.0
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,6 +43,9 @@ If so, please use the support forum to ask!
 2. Frontend Disable admin email verification prompt screen.
 
 == Changelog ==
+
+= 1.0.7 =
+* Tested upto latest wordpress version 6.9
 
 = 1.0.6 =
 * Tested upto latest wordpress version 6.6

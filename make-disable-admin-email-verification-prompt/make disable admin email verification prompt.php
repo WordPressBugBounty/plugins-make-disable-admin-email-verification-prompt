@@ -4,7 +4,7 @@
  * Plugin URI:  https://developer.wordpress.org/plugins/make-disable-admin-email-verification-prompt/
  * Description: Disable admin email verification prompt introduced in WordPress 5.3, with checkbox option in Genearl in Settings.if you want to disabled prompt then tick the chekckbox. 
  * Author: Aims Infosoft
- * Version: 1.0.6
+ * Version: 1.0.7
  * Requires at least: 5.3
  * Text Domain: daevai
  * Author URI: https://aimsinfosoft.com/
